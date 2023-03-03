@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873011001208",
+    "project_id": "homestay-raya-976c6",
+    "storage_bucket": "homestay-raya-976c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873011001208:android:e087aa2905a154ebbbfa8d",
+        "android_client_info": {
+          "package_name": "com.example.homestay_raya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873011001208-40aknotip9qj2dp6uhbkhohimstefjn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9suW3CE_N2jh60racT3TR-QC7Fi0PVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873011001208-40aknotip9qj2dp6uhbkhohimstefjn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
